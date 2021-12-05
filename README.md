@@ -11,7 +11,7 @@ PEACOCK 브랜드 제품을 카테고리별로 소개하고 판매하고 주문�
 
 
 ## Technology
-- **Frontend**: `JSX` `React(CRA)` `Sass` (Library: `React-router-DOM`)
+- **Frontend**: `React(CRA)` `Sass` (Library: `React-router-DOM`)
 - **Backend**: `Python`, `Django Web Framework`, `AWS`, `MySQL`
 - **Common**: 버전관리 `Git & GitHub`, 일정관리 `Trello`, 소통 `Slack`
 
